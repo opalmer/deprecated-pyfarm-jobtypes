@@ -17,7 +17,7 @@ PyFarm Job Types (deprecated)
 
 This repository has been merged into pyfarm/pyfarm-agent so no further 
 work will be accepted here. This repo is being retained to preserve 
-external links from pyfarm-master into this location. For information about 
+external links from pyfarm-jobtypes into this location. For information about 
 why this change was made see this discussion:
 
 https://groups.google.com/a/pyfarm.net/d/msg/discuss/tNKsWTgaQpY/tKn1tmhN5kQJ
