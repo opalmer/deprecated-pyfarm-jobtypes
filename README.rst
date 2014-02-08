@@ -12,8 +12,12 @@
 .. See the License for the specific language governing permissions and
 .. limitations under the License.
 
-PyFarm Job Types
-================
+PyFarm Job Types (deprecated)
+=============================
 
-This sub-library contains classes and objects which are used by other parts of
-PyFarm to execute a job.
+This repository has been merged into pyfarm/pyfarm-agent so no further 
+work will be accepted here. This repo is being retained to preserve 
+external links from pyfarm-master into this location. For information about 
+why this change was made see this discussion:
+
+https://groups.google.com/a/pyfarm.net/d/msg/discuss/tNKsWTgaQpY/tKn1tmhN5kQJ
